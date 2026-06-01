@@ -3,7 +3,7 @@ name: Deploy Node.js app to Azure Web App (second)
 on:
   push:
     branches:
-      - main
+      - firstlocal
 
 jobs:
   build-and-deploy:
