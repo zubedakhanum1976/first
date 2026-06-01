@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_WEBAPP_NAME: firrstwebApp
+  AZURE_WEBAPP_NAME: second
   AZURE_WEBAPP_PACKAGE_PATH: '.'
   NODE_VERSION: '22.x'
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
